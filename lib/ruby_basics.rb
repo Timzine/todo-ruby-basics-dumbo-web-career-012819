@@ -8,9 +8,9 @@ def assign_variable(value)
   return name
 end
 
-def argue
-  puts argument
-  return argument
+def argue(value)
+  puts value 
+  return value
 end
 
 def greeting
