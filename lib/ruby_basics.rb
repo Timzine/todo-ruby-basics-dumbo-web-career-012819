@@ -19,7 +19,10 @@ def greeting(greetings, name)
 
 end
 
-def return_a_value
+def return_a_value(phrase)
+  phrase = "Nice"
+  puts phrase
+  
 
 end
 
