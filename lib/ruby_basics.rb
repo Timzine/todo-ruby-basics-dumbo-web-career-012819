@@ -14,7 +14,7 @@ def argue(value)
 end
 
 def greeting(greeting = "Hello", name)
-  puts #{greeting} #{name}"
+  puts #{greeting}, #{name}"
   
 
 end
