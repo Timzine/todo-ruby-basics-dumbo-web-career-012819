@@ -15,6 +15,7 @@ end
 
 def greeting("Hello", name)
   puts "Hello" #{name}
+  return
 
 end
 
