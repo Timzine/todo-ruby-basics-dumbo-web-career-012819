@@ -13,7 +13,7 @@ def argue(value)
   return value
 end
 
-def greeting(greeting, name)
+def greeting(greetings, name)
   puts "Hello, #{name}"
   
 
